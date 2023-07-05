@@ -101,6 +101,6 @@
            • Dado que eu faço uma requisição GET para o ID 8,
            • Então o resultado deverá ser status 200,
            • E o body deverá conter as infiltrações esperadas do ID 8,
-           • O teste foi concedido com sucesso.    
+           • O teste foi concedido com sucesso.
 
         
